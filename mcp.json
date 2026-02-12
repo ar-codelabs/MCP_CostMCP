@@ -1,16 +1,5 @@
 {
   "mcpServers": {
-    "aws-core": {
-      "command": "uvx",
-      "args": [
-        "awslabs.core-mcp-server@latest"
-      ],
-      "env": {
-        "AWS_PROFILE": "default",
-        "AWS_REGION": "us-east-1",
-        "FASTMCP_LOG_LEVEL": "ERROR"
-      }
-    },
     "aws-billing-cost-management": {
       "command": "uvx",
       "args": [
@@ -45,7 +34,7 @@
     "aws-pricing": {
       "command": "uvx",
       "args": [
-        "awslabs.pricing-mcp-server@latest"
+        "awslabs.aws-pricing-mcp-server@latest"
       ],
       "env": {
         "AWS_PROFILE": "default",
