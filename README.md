@@ -499,11 +499,6 @@ aws configure
 - [AWS MCP 서버 GitHub](https://github.com/awslabs/mcp)
 - [MCP 프로토콜 문서](https://modelcontextprotocol.io/)
 
-## 지원
-
-문제가 발생하거나 질문이 있으시면:
-- [GitHub Issues](https://github.com/awslabs/mcp/issues)
-- AWS Support 케이스 생성
 
 ---
 
